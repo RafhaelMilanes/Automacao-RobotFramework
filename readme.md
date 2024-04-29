@@ -31,11 +31,3 @@ Este repositório contém testes automatizados codigos em Robot Framework para v
 - **Settings:** Configurações gerais para os testes.
 - **Variables:** Declaração de variáveis utilizadas nos testes.
 
-## Como Contribuir
-
-- Sinta-se à vontade para propor melhorias ou adicionar novos testes através de pull requests.
-
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
